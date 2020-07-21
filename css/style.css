@@ -47,6 +47,11 @@ header {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+div {
+    height: 200px;
+    width: 100px;
+}
+
 @media print {
     header {
         padding: 0px;
