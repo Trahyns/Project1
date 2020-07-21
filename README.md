@@ -10,4 +10,5 @@ Technologies Used:
 Ideas for improvement:
   1. Create a way for user to order online and submit food request
   2. Add another page for picture gallery
-  3. 
+  3. Format Navigation Pane to look nicer
+  4. Format the text box in the Contact html page
