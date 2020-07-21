@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-21T20:21:44.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="qztl6ODv9ORkz9ScDQ3H" version="13.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-21T20:34:40.319Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="W4MUJUNNYFFDJEGnPMGJ" version="13.4.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1695" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -22,7 +22,7 @@
         <mxCell id="LRgtKBB10IDBJqXaKjea-5" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 36px&quot;&gt;Pizza Restaurant Idea for Website!&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rounded=0;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="210" y="-160" width="330" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="LRgtKBB10IDBJqXaKjea-7" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px&quot;&gt;User stories:&lt;br&gt;1. As a busy parent, I want to &lt;u&gt;order food for my household&lt;/u&gt;&amp;nbsp;so that I can &lt;u&gt;have one less thing to worry about when I come home to greet my family&lt;/u&gt;&lt;br&gt;2. As a full-time student, I want to &lt;u&gt;order food that is inexpensive&lt;/u&gt;&amp;nbsp;so that I can &lt;u&gt;have a delicious meal versus a granola bar.&lt;/u&gt;&lt;br&gt;3. As a young adult working 60-80s a week, I want to &lt;u&gt;have the ease of ordering food online during lunch hours&amp;nbsp;&lt;/u&gt;&amp;nbsp;so that I can &lt;u&gt;enjoy a nice hot meal and not worry about what I am going to eat, and save time on trying to pack lunch overnight.&lt;/u&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="LRgtKBB10IDBJqXaKjea-7" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px&quot;&gt;User stories:&lt;br&gt;1. As a busy parent, I want to &lt;u&gt;order food for my household&lt;/u&gt;&amp;nbsp;so that I can &lt;u&gt;have one less thing to worry about when I come home to greet my family&lt;/u&gt;&lt;br&gt;2. As a full-time student, I want to &lt;u&gt;order food that is inexpensive&lt;/u&gt;&amp;nbsp;so that I can &lt;u&gt;have a delicious meal versus a granola bar.&lt;/u&gt;&lt;br&gt;3. As a young adult working 60-80s a week, I want to &lt;u&gt;have the ease of ordering food to-go during lunch hours&amp;nbsp;&lt;/u&gt;&amp;nbsp;so that I can &lt;u&gt;enjoy a nice hot meal and not worry about what I am going to eat, and save time on trying to pack lunch overnight.&lt;/u&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-220" y="450" width="360" height="390" as="geometry" />
         </mxCell>
         <mxCell id="LRgtKBB10IDBJqXaKjea-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LRgtKBB10IDBJqXaKjea-10" target="LRgtKBB10IDBJqXaKjea-11" edge="1">
@@ -47,24 +47,6 @@
         <mxCell id="LRgtKBB10IDBJqXaKjea-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LRgtKBB10IDBJqXaKjea-11" target="LRgtKBB10IDBJqXaKjea-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LRgtKBB10IDBJqXaKjea-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LRgtKBB10IDBJqXaKjea-11" target="LRgtKBB10IDBJqXaKjea-23" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1080" y="320" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="835" y="190" />
-              <mxPoint x="1080" y="190" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LRgtKBB10IDBJqXaKjea-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LRgtKBB10IDBJqXaKjea-11" target="LRgtKBB10IDBJqXaKjea-25" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="280" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="835" y="200" />
-              <mxPoint x="620" y="200" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LRgtKBB10IDBJqXaKjea-11" value="Navigation Bar" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="775" y="55" width="120" height="60" as="geometry" />
         </mxCell>
@@ -74,35 +56,23 @@
         <mxCell id="LRgtKBB10IDBJqXaKjea-15" value="Specials" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="575" y="45" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LRgtKBB10IDBJqXaKjea-17" value="Social Media Influence" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="LRgtKBB10IDBJqXaKjea-17" value="Contact Us" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="775" y="-95" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LRgtKBB10IDBJqXaKjea-19" value="Highlight Special of the day, and contact information" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="LRgtKBB10IDBJqXaKjea-19" value="About Us info, and contact information" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="775" y="465" width="385" height="265" as="geometry" />
         </mxCell>
-        <mxCell id="LRgtKBB10IDBJqXaKjea-23" value="Gallery" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1020" y="280" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="LRgtKBB10IDBJqXaKjea-25" value="Order Online" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="560" y="240" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="7tNLmE3YbWITD4cNubPM-0" value="Specials of the Week" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;flipH=1;dx=90;dy=80;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="7tNLmE3YbWITD4cNubPM-0" value="About Us. Include contact phone number" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;flipH=1;dx=30;dy=80;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1150" y="60" width="430" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="7tNLmE3YbWITD4cNubPM-1" value="Sub header with phone number" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1370" y="115" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="7tNLmE3YbWITD4cNubPM-2" value="Menu Icon" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1520" y="95" width="40" height="20" as="geometry" />
+        <mxCell id="7tNLmE3YbWITD4cNubPM-1" value="Nav Pane" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1450" y="115" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7tNLmE3YbWITD4cNubPM-3" value="Pictures of the Pizza" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1270" y="165" width="120" height="60" as="geometry" />
+          <mxGeometry x="1305" y="165" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7tNLmE3YbWITD4cNubPM-4" value="Header" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1260" y="95" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="7tNLmE3YbWITD4cNubPM-5" value="Nav Pane" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1510" y="180" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
