@@ -60,3 +60,7 @@ img {
     height: 10em;
     width: 12em;
 }
+
+textarea {
+    text-align: start;
+}
