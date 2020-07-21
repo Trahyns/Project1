@@ -15,6 +15,10 @@
     }
 }
 
+#carousel {
+    max-height: 10em;
+}
+
 header h1 {
     font-size: 4em;
 }
