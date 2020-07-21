@@ -56,10 +56,6 @@ header {
     }
 }
 
-main {
-    position: fixed;
-}
-
 .carousel-inner {
     text-align: center;
 }
