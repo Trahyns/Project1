@@ -19,12 +19,6 @@ header h1 {
     font-size: 4em;
 }
 
-article>time {
-    float: right;
-    font-size: 0.75em;
-    font-weight: lighter;
-}
-
 @media not print {
     main>h3 {
         font-size: 2em;
