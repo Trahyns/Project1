@@ -54,7 +54,7 @@ body {
 }
 
 header {
-    font-family: 'Contrail One';
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 @media print {
